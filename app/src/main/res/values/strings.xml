@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CreditCardMask</string>
+    <string name="expired_date">Expired date</string>
+    <string name="card_number">Card Number</string>
 </resources>
