@@ -29,13 +29,9 @@ sense.
 
 |Example|Preview|
 |-------|-------|
-|[Credit card number formatting in compose ]()|<img src ="screenshots/cardnumber.gif" width=214 height=400> |
-|[How do I make a view clickable and do actions when clicked?](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/material/AlertDialogActivity.kt#L51)| <img src ="screenshots/alert_dialog.gif" width=214 height=400> |
-|[How do I add padding around a view?](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/layout/LayoutModifierActivity.kt#L51) <br/>  [How do I add an offset to a layout?](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/layout/LayoutModifierActivity.kt#L90) <br/> [How do I enforce a layout to have a fixed aspect ratio?](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/layout/LayoutModifierActivity.kt#L112)|<img src ="screenshots/layout_modifiers.png" width=214 height=400>|
-|How do I add a background color to any section of the screen? <br/> [Example 1](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/text/CustomTextActivity.kt#L187) <br/> [Example 2](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/material/DrawerAppActivity.kt#L123)|<img src ="screenshots/background_surface1.png" width=214> <br/> <img src ="screenshots/background_surface2.png" width=214> |
-|[How do I get FrameLayout like functionality to stack views on top of one another?](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/stack/StackActivity.kt)| |
-|How do I do animation in Jetpack Compose? <br/>[Example: Rotation Animation](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/animation/Animation1Activity.kt) <br/> [Example: Color Change Animation](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/animation/Animation2Activity.kt) |<img src ="screenshots/animation_rotation.gif" width=214 height=400> <br/> <br/> <img src ="screenshots/color_animation.gif" width=214 height=400>|
-|[How do styles & themes work in Jetpack Compose?](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/theme/DarkModeActivity.kt) <br/> [How do I add dark mode capability to my app?](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/theme/DarkModeActivity.kt)|<img src ="screenshots/dark_mode.gif" width=214 height=400> |
+|[Credit card number formatting in compose ]()|<img src ="screenshots/creditcardnumber.gif" width=214 height=400> |
+|[Credit card expired data formatting in compose ]()|<img src ="screenshots/expireddata.gif" width=214 height=400> |
+
 
 
 License
