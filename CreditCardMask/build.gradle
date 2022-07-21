@@ -47,3 +47,15 @@ dependencies {
     androidTestImplementation 'androidx.compose.ui:ui-test-junit4:1.1.1'
 }
 
+publishing {
+    publications {
+        publications(MavenPublication) {
+            groupId = "com.github.bahromzodabehruz97"
+            artifactId = "creditcardmask"
+            version = "1.0"
+            afterEvaluate {
+                from(components["release"])
+            }
+        }
+    }
+}
