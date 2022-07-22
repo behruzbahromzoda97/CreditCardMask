@@ -29,9 +29,8 @@ sense.
 
 |Example|Preview|
 |-------|-------|
-|[Credit card number formatting in compose ]()|<img src ="screenshots/creditcardnumber.gif" width=214 height=400> |
-|[Credit card expired data formatting in compose ]()|<img src ="screenshots/expireddata.gif" width=214 height=400> |
-
+|[Credit card number formatting in compose ](https://github.com/behruzbahromzoda97/CreditCardMask/blob/main/CreditCardMask/src/main/java/tj/behruz/creditcardmask/main/CardNumberMask.kt)|<img src ="screenshots/cardnumber.gif" width=214 height=400> |
+|[Credit card expired data formatting in compose ](https://github.com/behruzbahromzoda97/CreditCardMask/blob/main/CreditCardMask/src/main/java/tj/behruz/creditcardmask/main/ExpiredCardDateMask.kt#L51)| <img src ="screenshots/expiredData.gif" width=214 height=400> |
 
 
 License
